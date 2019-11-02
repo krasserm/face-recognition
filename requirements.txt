@@ -54,5 +54,5 @@ testpath==0.3.1
 tornado==4.5.3
 traitlets==4.3.2
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.3
